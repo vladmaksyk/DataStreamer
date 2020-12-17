@@ -10,11 +10,11 @@ import subprocess
 # importing file which sets env variable
 #subprocess.call("./settings.sh", shell=True)
 
-consumer_key = "hhUwvSNFYO0KRJXeXGfV1rQQL"
-consumer_secret = "BjMI7bfnytpo9kKKZD61XHslkocSGjZq6CJhN0mPKhzn6zPiRP"
-access_token = "270353351-1TskRQ62guPg77xEnc6SdxtQVumrK219Ds4iYPF0"
-access_token_secret = "MbBubIEpnCKe0XcKYAjcX62HJTgcMwo8LWcteBCWqrXSl"
-password = "ikwoord19jaar"
+consumer_key = ""
+consumer_secret = ""
+access_token = ""
+access_token_secret = ""
+password = ""
 
 
 def connect(username, created_at, tweet, retweet_count, place, location):
